@@ -10,7 +10,9 @@ using the reduce from functools
 I have three higher higher order functions which are:
 
 transform(x) that transforms the input file stored as dictionary to dictionary with only necessary columns i.e.
+
 'id'	 'drug_name'	 'drug_cost'
+
 The table somewhat looks like this.
 These are only the field we require.
 with id as unique identifier to prescribers.
